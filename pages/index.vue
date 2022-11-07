@@ -5,14 +5,14 @@
 				REDOIT! helps you improve your habits. <br />One day at a time.
 			</div>
 			<a
-				href="#"
+				href="https://web.redoit.app/"
 				class="px-4 py-2 text-lg md:(px-6 py-3 text-xl) my-10 bg-green-100 text-green-600 inline-block rounded-lg inline-flex items-center gap-2 hover:(bg-green-200 text-green-700 shadow-lg shadow-dark-100/30)"
 				>Get Started <Icon name="ic:sharp-arrow-forward" size="24" />
 			</a>
 
 			<div class="md:w-[80%] m-auto">
 				<img
-					src="https://redoit.app/app_screenshot_dark_01.png"
+					src="https://web.redoit.app/app_screenshot_dark_01.png"
 					alt="app screenshot"
 					class="inline-block w-full h-full"
 				/>
@@ -24,7 +24,7 @@
 			<div class="m-auto my-20 text-center">
 				<h3 class="text-2xl md:text-4xl">Take Charge Of Your Life</h3>
 				<a
-					href="#"
+					href="https://web.redoit.app/"
 					class="px-4 py-2 text-lg md:(px-6 py-3 text-xl) my-10 bg-green-100 text-green-600 inline-block rounded-lg inline-flex items-center gap-2 hover:(bg-green-200 text-green-700 shadow-sm shadow-dark-100/30)"
 					>Get Started <Icon name="ic:sharp-arrow-forward" size="24" />
 				</a>
