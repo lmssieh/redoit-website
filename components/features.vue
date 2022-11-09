@@ -7,11 +7,11 @@
 				</h2>
 			</div>
 			<div
-				class="flex items-center justify-center flex-col md:flex-row md:text-center gap-x-4 gap-y-8 children:flex-1"
+				class="md:(grid grid-cols-3 text-center gap-x-4 gap-y-8) children:(flex-1 mx-auto py-4)"
 			>
 				<div class="max-w-[300px]">
 					<div
-						class="bg-orange-100 text-orange-400 rounded-1xl h-[100px] w-[100px] inline-flex justify-center items-center md:(h-[100px] w-[100px] rounded-3xl)"
+						class="bg-blue-100 text-blue-400 rounded-1xl h-[100px] w-[100px] inline-flex justify-center items-center md:(h-[100px] w-[100px] rounded-3xl)"
 					>
 						<Icon name="heroicons-solid:trending-up" size="50%" />
 					</div>
@@ -45,7 +45,33 @@
 						redoit! unique color-coded system.
 					</div>
 				</div>
+
 			</div>
+				<div class="md:(flex justify-center gap-x-4) children:(mx-auto py-8 ) md:text-center">
+
+				<div class="max-w-[300px]">
+					<div
+						class="bg-purple-100 text-purple-400 rounded-1xl h-[100px] w-[100px] inline-flex justify-center items-center md:(h-[100px] w-[100px] rounded-3xl)"
+					>
+						<Icon name="akar-icons:schedule" size="50%" />
+					</div>
+					<h3 class="font-semibold py-5">Get reminded</h3>
+					<div>
+						Our powerful and flexible reminders make it extremely easy to start a new habit!					</div>
+				</div>
+				<div class="max-w-[300px]">
+					<div
+						class="bg-orange-100 text-orange-400 rounded-1xl h-[100px] w-[100px] inline-flex justify-center items-center md:(h-[100px] w-[100px] rounded-3xl)"
+					>
+						<Icon name="ic:outline-cloud-sync" size="50%" />
+					</div>
+					<h3 class="font-semibold py-5">Multi-device Syncing</h3>
+					<div>
+						Our powerful and flexible reminders make it extremely easy to start a new habit!					</div>
+				</div>
+				</div>
+
+
 		</div>
 	</div>
 </template>

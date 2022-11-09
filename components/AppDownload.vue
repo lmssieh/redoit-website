@@ -1,6 +1,6 @@
 <template>
 	<section
-		class="bg-green-500 rounded-lg font-poppins py-8 px-4 sm:py-4 my-20 md:(py-0  mt-50 flex items-center)"
+		class="bg-green-500 rounded-lg font-poppins py-8 px-4 sm:py-20 my-20 md:(py-0  mt-50 flex items-center)"
 	>
 		<div class="md:w-[70%]">
 			<h2 class="text-lg pb-5 sm:(text-3xl pb-10)  leading-10 font-bold text-white">
