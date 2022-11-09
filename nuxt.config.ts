@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     head: {
       title: 'REDOIT! habit tracker',
       meta: [
-        { name: 'description', content: 'My amazing site.' }
+        { name: 'description', content: 'redotit! a habit tracker that helps you do more, by doing less.' }
       ],
     }
   },

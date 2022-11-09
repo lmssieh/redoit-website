@@ -1,5 +1,8 @@
 <template>
 	<div class="max-w-[1200px] m-auto my-20">
+		<Head>
+			<Title>Privacy Policy – redoit!</Title>
+		</Head>
 		<div class="max-w-[800px] m-auto">
 			<h1 class="font-bold text-4xl pb-10">Privacy Policy</h1>
 			<p>
