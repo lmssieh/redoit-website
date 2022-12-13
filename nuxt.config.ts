@@ -16,11 +16,8 @@ export default defineNuxtConfig({
     'nuxt-windicss',
     'nuxt-icon',
     '@nuxtjs/google-fonts',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/robots',
   ],
-  sitemap: {
-    hostname: 'https://redoit.app'
-  },
   googleFonts: {
     families: {
       Poppins: [400, 500, 600, 700],
